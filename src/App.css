@@ -44,3 +44,22 @@ body,html{
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
+
+#input-row td{
+  padding: 0;
+  margin: 0;
+}
+#input-row td input{
+  border: 0;
+  margin: 0;
+  padding-right:0 ;
+  width: 140px;
+}
+
+#input-row td button{
+  border: 0;
+  margin: 0;
+  padding-right:0 ;
+  width: 140px;
+}
+
