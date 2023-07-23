@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/erp/static/css/main.2ebafe6b.css",
+    "main.js": "/erp/static/js/main.c77d375a.js",
+    "static/js/787.10e7632a.chunk.js": "/erp/static/js/787.10e7632a.chunk.js",
+    "index.html": "/erp/index.html",
+    "main.2ebafe6b.css.map": "/erp/static/css/main.2ebafe6b.css.map",
+    "main.c77d375a.js.map": "/erp/static/js/main.c77d375a.js.map",
+    "787.10e7632a.chunk.js.map": "/erp/static/js/787.10e7632a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ebafe6b.css",
+    "static/js/main.c77d375a.js"
+  ]
+}
