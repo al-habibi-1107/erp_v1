@@ -2,10 +2,7 @@
   "name": "erp",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": "http://al-habibi-1107.github.io/erp_v1",
-=======
->>>>>>> parent of fb89dfe (Test_deploy_1)
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -20,11 +17,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -b main -d build",
-=======
->>>>>>> parent of fb89dfe (Test_deploy_1)
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
