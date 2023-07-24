@@ -22,7 +22,7 @@ const StockComponent = (prop) => {
 
   useEffect(() => {
     async function getAPI(){
-      const url = `https://script.google.com/macros/s/AKfycbwhIXXA7kfWqo8Q8xO9T0Ur8DUfbt9FAnRdNpt1wINW48fVsnvKrgbn4FOI_lbD4083/exec?id=${id}&auth=${auth}`; 
+      const url = `https://script.google.com/macros/s/AKfycbwhIXXA7kfWqo8Q8xO9T0Ur8DUfbt9FAnRdNpt1wINW48fVsnvKrgbn4FOI_lbD4083/exec?id=${id}&auth=`; 
   
       const config = {
        mode:'no-cors',
